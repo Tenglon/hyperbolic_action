@@ -11,6 +11,18 @@ geoopt == 0.2.0
 
 If you fail to use this code, please email me (uestc.longteng@gmail.com)
 
+# Data Hierarchy and Seen/Unseen Split.
+
+activity_net_depth.csv	
+kinetics_depth.csv	
+moments_depth.csv
+
+# Pretrained 300-D action embedding:
+
+cone_activity_net300.pth	
+cone_kinetics_300.pth	
+cone_moments_300.pth	
+
 # Reference
 
 [Searching for Actions on the Hyperbole](http://openaccess.thecvf.com/content_CVPR_2020/html/Long_Searching_for_Actions_on_the_Hyperbole_CVPR_2020_paper.html)
