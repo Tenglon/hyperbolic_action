@@ -13,15 +13,15 @@ If you fail to use this code, please email me (uestc.longteng@gmail.com)
 
 # Data Hierarchy and Seen/Unseen Split.
 
-activity_net_depth.csv	
-kinetics_depth.csv	
-moments_depth.csv
+activity_net_depth.csv	<br>
+kinetics_depth.csv	<br>
+moments_depth.csv <br>
 
 # Pretrained 300-D action embedding:
 
-cone_activity_net300.pth	
-cone_kinetics_300.pth	
-cone_moments_300.pth	
+cone_activity_net300.pth	\\
+cone_kinetics_300.pth	\\
+cone_moments_300.pth	\\
 
 # Reference
 
