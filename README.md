@@ -19,9 +19,9 @@ moments_depth.csv <br>
 
 # Pretrained 300-D action embedding:
 
-cone_activity_net300.pth	\\
-cone_kinetics_300.pth	\\
-cone_moments_300.pth	\\
+cone_activity_net300.pth	<br>
+cone_kinetics_300.pth	<br>
+cone_moments_300.pth <br>
 
 # Reference
 
