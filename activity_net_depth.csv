@@ -1,0 +1,200 @@
+Ballet,Dancing,Arts and Entertainment,Root,1
+Tango,Dancing,Arts and Entertainment,Root,1
+Cheerleading,Dancing,Arts and Entertainment,Root,1
+Cumbia,Dancing,Arts and Entertainment,Root,1
+Breakdancing,Dancing,Arts and Entertainment,Root,1
+Belly dance,Dancing,Arts and Entertainment,Root,0
+Building sandcastles,Park activities,Arts and Entertainment,Root,1
+Fun sliding down,Park activities,Arts and Entertainment,Root,1
+Swinging at the playground,Park activities,Arts and Entertainment,Root,1
+Using the monkey bar,Park activities,Arts and Entertainment,Root,1
+Starting a campfire,Park activities,Arts and Entertainment,Root,0
+Drum corps,Playing musical instruments,Arts and Entertainment,Root,1
+Playing congas,Playing musical instruments,Arts and Entertainment,Root,1
+Playing drums,Playing musical instruments,Arts and Entertainment,Root,1
+Playing bagpipes,Playing musical instruments,Arts and Entertainment,Root,1
+Playing harmonica,Playing musical instruments,Arts and Entertainment,Root,1
+Playing saxophone,Playing musical instruments,Arts and Entertainment,Root,1
+Playing guitarra,Playing musical instruments,Arts and Entertainment,Root,1
+Playing flauta,Playing musical instruments,Arts and Entertainment,Root,1
+Playing piano,Playing musical instruments,Arts and Entertainment,Root,1
+Playing violin,Playing musical instruments,Arts and Entertainment,Root,1
+Playing accordion,Playing musical instruments,Arts and Entertainment,Root,0
+Having an ice cream,Eating and Drinking,Eating and drinking Activities,Root,1
+Drinking coffee,Eating and Drinking,Eating and drinking Activities,Root,1
+Drinking beer,Eating and Drinking,Eating and drinking Activities,Root,0
+Baking cookies,Food and drink preparation ,Eating and drinking Activities,Root,1
+Making a cake,Food and drink preparation ,Eating and drinking Activities,Root,1
+Making a lemonade,Food and drink preparation ,Eating and drinking Activities,Root,1
+Making an omelette,Food and drink preparation ,Eating and drinking Activities,Root,1
+Peeling potatoes,Food and drink preparation ,Eating and drinking Activities,Root,1
+Preparing pasta,Food and drink preparation ,Eating and drinking Activities,Root,1
+Preparing salad,Food and drink preparation ,Eating and drinking Activities,Root,1
+Making a sandwich,Food and drink preparation ,Eating and drinking Activities,Root,0
+Mixing drinks,Food and drink preparation ,Eating and drinking Activities,Root,0
+Washing dishes,Food and drink preparation ,Eating and drinking Activities,Root,1
+Clipping cat claws,Animals and Pets,Household Activities,Root,1
+Grooming dog,Animals and Pets,Household Activities,Root,1
+Bathing dog,Animals and Pets,Household Activities,Root,1
+Disc dog,Animals and Pets,Household Activities,Root,1
+Grooming horse,Animals and Pets,Household Activities,Root,1
+Walking the dog,Animals and Pets,Household Activities,Root,0
+Sharpening knives,Appliances/Tools/and Toys,Household Activities,Root,1
+Waxing skis,Appliances/Tools/and Toys,Household Activities,Root,1
+Welding,Appliances/Tools/and Toys,Household Activities,Root,0
+Mooping floor,Cleaning and Laundry,Household Activities,Root,1
+Cleaning windows,Cleaning and Laundry,Household Activities,Root,1
+Vacuuming floor,Cleaning and Laundry,Household Activities,Root,1
+Polishing forniture,Cleaning and Laundry,Household Activities,Root,1
+Ironing clothes,Cleaning and Laundry,Household Activities,Root,1
+Hand washing clothes,Cleaning and Laundry,Household Activities,Root,1
+Knitting,Cleaning and Laundry,Household Activities,Root,1
+Cleaning shoes,Cleaning and Laundry,Household Activities,Root,1
+Polishing shoes,Cleaning and Laundry,Household Activities,Root,0
+Shoveling snow,Exterior Maintenance/Repair/& Decoration,Household Activities,Root,1
+Fixing the roof,Exterior Maintenance/Repair/& Decoration,Household Activities,Root,1
+Roof shingle removal,Exterior Maintenance/Repair/& Decoration,Household Activities,Root,1
+Painting fence,Exterior Maintenance/Repair/& Decoration,Household Activities,Root,1
+Wrapping presents,Interior Maintenance/Repair/& Decoration,Household Activities,Root,1
+Painting furniture,Interior Maintenance/Repair/& Decoration,Household Activities,Root,1
+Chopping wood,Interior Maintenance/Repair/& Decoration,Household Activities,Root,1
+Carving jack-o-lanterns,Interior Maintenance/Repair/& Decoration,Household Activities,Root,1
+Cleaning sink,Interior Maintenance/Repair/& Decoration,Household Activities,Root,1
+Decorating the Christmas tree,Interior Maintenance/Repair/& Decoration,Household Activities,Root,1
+Hanging wallpaper,Interior Maintenance/Repair/& Decoration,Household Activities,Root,1
+Installing carpet,Interior Maintenance/Repair/& Decoration,Household Activities,Root,1
+Laying tile,Interior Maintenance/Repair/& Decoration,Household Activities,Root,1
+Plastering,Interior Maintenance/Repair/& Decoration,Household Activities,Root,0
+Painting,Interior Maintenance/Repair/& Decoration,Household Activities,Root,0
+Blowing leaves,Lawn/Garden/and Houseplants,Household Activities,Root,1
+Cutting the grass,Lawn/Garden/and Houseplants,Household Activities,Root,1
+Raking leaves,Lawn/Garden/and Houseplants,Household Activities,Root,1
+Spread mulch,Lawn/Garden/and Houseplants,Household Activities,Root,1
+Trimming branches or hedges,Lawn/Garden/and Houseplants,Household Activities,Root,1
+Mowing the lawn,Lawn/Garden/and Houseplants,Household Activities,Root,0
+Assembling bicycle,Vehicle repair and maintenance,Household Activities,Root,1
+Changing car wheel,Vehicle repair and maintenance,Household Activities,Root,1
+Hand car wash,Vehicle repair and maintenance,Household Activities,Root,1
+Removing ice from car,Vehicle repair and maintenance,Household Activities,Root,1
+Fixing bicycle,Vehicle repair and maintenance,Household Activities,Root,0
+Putting in contact lenses,Dress up,Personal Care,Root,1
+Putting on shoes,Dress up,Personal Care,Root,1
+Putting on makeup,Dress up,Personal Care,Root,1
+Brushing hair,Dress up,Personal Care,Root,1
+Doing nails,Dress up,Personal Care,Root,1
+Applying sunscreen,Dress up,Personal Care,Root,0
+Removing curlers,Grooming,Personal Care,Root,0
+Getting a tattoo,Grooming,Personal Care,Root,1
+Getting a piercing,Grooming,Personal Care,Root,1
+Getting a haircut,Grooming,Personal Care,Root,1
+Blow-drying hair,Grooming,Personal Care,Root,1
+Braiding hair,Grooming,Personal Care,Root,1
+Shaving legs,Grooming,Personal Care,Root,1
+Gargling mouthwash,Wash up,Personal Care,Root,1
+Washing face,Wash up,Personal Care,Root,1
+Brushing teeth,Wash up,Personal Care,Root,1
+Washing hands,Wash up,Personal Care,Root,1
+Shaving,Wash up,Personal Care,Root,1
+Playing blackjack,Playing games,Relaxing and Leisure,Root,1
+Beer pong,Playing games,Relaxing and Leisure,Root,1
+Hitting a pinata,Playing games,Relaxing and Leisure,Root,1
+Hula hoop,Playing games,Relaxing and Leisure,Root,1
+Kite flying,Playing games,Relaxing and Leisure,Root,1
+Playing pool,Playing games,Relaxing and Leisure,Root,1
+Playing rubik cube,Playing games,Relaxing and Leisure,Root,1
+Riding bumper cars,Playing games,Relaxing and Leisure,Root,1
+Rock-paper-scissors,Playing games,Relaxing and Leisure,Root,1
+Shuffleboard,Playing games,Relaxing and Leisure,Root,1
+Slacklining,Playing games,Relaxing and Leisure,Root,1
+Table soccer,Playing games,Relaxing and Leisure,Root,1
+Throwing darts,Playing games,Relaxing and Leisure,Root,0
+Tug of war,Playing games,Relaxing and Leisure,Root,1
+Hopscotch,Playing games,Relaxing and Leisure,Root,0
+Playing ten pins,Playing games,Relaxing and Leisure,Root,1
+Smoking hookah,Tobacco and drug use,Relaxing and Leisure,Root,1
+Smoking a cigarette,Tobacco and drug use,Relaxing and Leisure,Root,0
+Cricket,Bat-and-ball games,Sports/Exercise/and Recreation,Root,1
+Playing kickball,Bat-and-ball games,Sports/Exercise/and Recreation,Root,0
+Canoeing,Boating,Sports/Exercise/and Recreation,Root,1
+Rafting,Boating,Sports/Exercise/and Recreation,Root,1
+River tubing,Boating,Sports/Exercise/and Recreation,Root,0
+Sailing,Boating,Sports/Exercise/and Recreation,Root,1
+Kayaking,Boating,Sports/Exercise/and Recreation,Root,0
+Zumba,Doing aerobics,Sports/Exercise/and Recreation,Root,1
+Doing step aerobics,Doing aerobics,Sports/Exercise/and Recreation,Root,0
+Using the pommel horse,Doing gymnastics,Sports/Exercise/and Recreation,Root,1
+Using the balance beam,Doing gymnastics,Sports/Exercise/and Recreation,Root,1
+Tumbling,Doing gymnastics,Sports/Exercise/and Recreation,Root,1
+Using parallel bars,Doing gymnastics,Sports/Exercise/and Recreation,Root,1
+Using uneven bars,Doing gymnastics,Sports/Exercise/and Recreation,Root,1
+Baton twirling,Doing gymnastics,Sports/Exercise/and Recreation,Root,0
+Playing polo,Equestrian sports,Sports/Exercise/and Recreation,Root,1
+Horseback riding,Equestrian sports,Sports/Exercise/and Recreation,Root,1
+Camel ride,Equestrian sports,Sports/Exercise/and Recreation,Root,0
+BMX,Extreme sports,Sports/Exercise/and Recreation,Root,1
+Rock climbing,Extreme sports,Sports/Exercise/and Recreation,Root,1
+Powerbocking,Extreme sports,Sports/Exercise/and Recreation,Root,1
+Paintball,Extreme sports,Sports/Exercise/and Recreation,Root,1
+Bungee jumping,Extreme sports,Sports/Exercise/and Recreation,Root,1
+Doing motocross,Extreme sports,Sports/Exercise/and Recreation,Root,0
+High jump,Field sports,Sports/Exercise/and Recreation,Root,1
+Discus throw,Field sports,Sports/Exercise/and Recreation,Root,1
+Javelin throw,Field sports,Sports/Exercise/and Recreation,Root,1
+Long jump,Field sports,Sports/Exercise/and Recreation,Root,1
+Triple jump,Field sports,Sports/Exercise/and Recreation,Root,1
+Shot put,Field sports,Sports/Exercise/and Recreation,Root,1
+Hammer throw,Field sports,Sports/Exercise/and Recreation,Root,1
+Archery,Field sports,Sports/Exercise/and Recreation,Root,1
+Pole vault,Field sports,Sports/Exercise/and Recreation,Root,0
+Running a marathon,Field sports,Sports/Exercise/and Recreation,Root,1
+Capoeira,Martial arts,Sports/Exercise/and Recreation,Root,1
+Doing kickboxing,Martial arts,Sports/Exercise/and Recreation,Root,1
+Doing karate,Martial arts,Sports/Exercise/and Recreation,Root,1
+Tai chi,Martial arts,Sports/Exercise/and Recreation,Root,0
+Layup drill in basketball,Playing basketball,Sports/Exercise/and Recreation,Root,1
+Dodgeball,Playing basketball,Sports/Exercise/and Recreation,Root,0
+Playing ice hockey,Playing hockey,Sports/Exercise/and Recreation,Root,1
+Playing field hockey,Playing hockey,Sports/Exercise/and Recreation,Root,1
+Croquet,Playing hockey,Sports/Exercise/and Recreation,Root,1
+Hurling,Playing hockey,Sports/Exercise/and Recreation,Root,0
+Beach soccer,Playing soccer,Sports/Exercise/and Recreation,Root,1
+Futsal,Playing soccer,Sports/Exercise/and Recreation,Root,0
+Playing beach volleyball,Playing volleyball,Sports/Exercise/and Recreation,Root,1
+Volleyball,Playing volleyball,Sports/Exercise/and Recreation,Root,0
+Ping-pong,Racquet sports ,Sports/Exercise/and Recreation,Root,1
+Tennis serve with ball bouncing,Racquet sports ,Sports/Exercise/and Recreation,Root,1
+Playing squash,Racquet sports ,Sports/Exercise/and Recreation,Root,1
+Playing lacrosse,Racquet sports ,Sports/Exercise/and Recreation,Root,1
+Playing racquetball,Racquet sports ,Sports/Exercise/and Recreation,Root,1
+Playing badminton,Racquet sports ,Sports/Exercise/and Recreation,Root,0
+Bullfighting,Rodeo competitions,Sports/Exercise/and Recreation,Root,1
+Calf roping,Rodeo competitions,Sports/Exercise/and Recreation,Root,0
+Longboarding,Roller sports,Sports/Exercise/and Recreation,Root,1
+Rollerblading,Roller sports,Sports/Exercise/and Recreation,Root,1
+Skateboarding,Roller sports,Sports/Exercise/and Recreation,Root,0
+Ice fishing,Skiing/ice skating/snowboarding,Sports/Exercise/and Recreation,Root,1
+Curling,Skiing/ice skating/snowboarding,Sports/Exercise/and Recreation,Root,1
+Skiing,Skiing/ice skating/snowboarding,Sports/Exercise/and Recreation,Root,1
+Snow tubing,Skiing/ice skating/snowboarding,Sports/Exercise/and Recreation,Root,1
+Snowboarding,Skiing/ice skating/snowboarding,Sports/Exercise/and Recreation,Root,0
+Elliptical trainer,Using cardiovascular equipment,Sports/Exercise/and Recreation,Root,1
+Using the rowing machine,Using cardiovascular equipment,Sports/Exercise/and Recreation,Root,1
+Spinning,Using cardiovascular equipment,Sports/Exercise/and Recreation,Root,0
+Scuba diving,Water sports,Sports/Exercise/and Recreation,Root,1
+Surfing,Water sports,Sports/Exercise/and Recreation,Root,1
+Swimming,Water sports,Sports/Exercise/and Recreation,Root,1
+Wakeboarding,Water sports,Sports/Exercise/and Recreation,Root,1
+Waterskiing,Water sports,Sports/Exercise/and Recreation,Root,1
+Springboard diving,Water sports,Sports/Exercise/and Recreation,Root,1
+Plataform diving,Water sports,Sports/Exercise/and Recreation,Root,1
+Windsurfing,Water sports,Sports/Exercise/and Recreation,Root,1
+Playing water polo,Water sports,Sports/Exercise/and Recreation,Root,0
+Clean and jerk,Weightlifting,Sports/Exercise/and Recreation,Root,1
+Snatch,Weightlifting,Sports/Exercise/and Recreation,Root,0
+Doing crunches,Working out,Sports/Exercise/and Recreation,Root,1
+Kneeling,Working out,Sports/Exercise/and Recreation,Root,1
+Rope skipping,Working out,Sports/Exercise/and Recreation,Root,0
+Doing fencing,Wrestling,Sports/Exercise/and Recreation,Root,1
+Doing a powerbomb,Wrestling,Sports/Exercise/and Recreation,Root,1
+Arm wrestling,Wrestling,Sports/Exercise/and Recreation,Root,1
+Sumo,Wrestling,Sports/Exercise/and Recreation,Root,0

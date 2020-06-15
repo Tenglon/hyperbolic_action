@@ -1,0 +1,200 @@
+blowing glass,arts and crafts,Arts and Entertainment,Root,1
+spray painting,arts and crafts,Arts and Entertainment,Root,1
+weaving basket,arts and crafts,Arts and Entertainment,Root,0
+headbanging,body motions,Arts and Entertainment,Root,1
+pumping fist,body motions,Arts and Entertainment,Root,1
+stretching leg,body motions,Arts and Entertainment,Root,0
+belly dancing,dancing,Arts and Entertainment,Root,1
+breakdancing,dancing,Arts and Entertainment,Root,1
+cheerleading,dancing,Arts and Entertainment,Root,1
+country line dancing,dancing,Arts and Entertainment,Root,1
+dancing ballet,dancing,Arts and Entertainment,Root,1
+dancing gangnam style,dancing,Arts and Entertainment,Root,1
+dancing macarena,dancing,Arts and Entertainment,Root,0
+marching,dancing,Arts and Entertainment,Root,1
+robot dancing,dancing,Arts and Entertainment,Root,1
+salsa dancing,dancing,Arts and Entertainment,Root,1
+tango dancing,dancing,Arts and Entertainment,Root,1
+tap dancing,dancing,Arts and Entertainment,Root,1
+zumba,dancing,Arts and Entertainment,Root,0
+arm wrestling,martial arts,Arts and Entertainment,Root,1
+capoeira,martial arts,Arts and Entertainment,Root,1
+high kick,martial arts,Arts and Entertainment,Root,1
+punching bag,martial arts,Arts and Entertainment,Root,1
+side kick,martial arts,Arts and Entertainment,Root,1
+tai chi,martial arts,Arts and Entertainment,Root,0
+busking,music,Arts and Entertainment,Root,1
+playing accordion,music,Arts and Entertainment,Root,1
+playing bagpipes,music,Arts and Entertainment,Root,1
+playing bass guitar,music,Arts and Entertainment,Root,1
+playing cello,music,Arts and Entertainment,Root,1
+playing clarinet,music,Arts and Entertainment,Root,0
+playing didgeridoo,music,Arts and Entertainment,Root,1
+playing drums,music,Arts and Entertainment,Root,1
+playing guitar,music,Arts and Entertainment,Root,1
+playing harmonica,music,Arts and Entertainment,Root,1
+playing harp,music,Arts and Entertainment,Root,1
+playing recorder,music,Arts and Entertainment,Root,1
+playing saxophone,music,Arts and Entertainment,Root,0
+playing trombone,music,Arts and Entertainment,Root,1
+playing trumpet,music,Arts and Entertainment,Root,1
+playing ukulele,music,Arts and Entertainment,Root,1
+playing violin,music,Arts and Entertainment,Root,1
+playing xylophone,music,Arts and Entertainment,Root,1
+tapping guitar,music,Arts and Entertainment,Root,0
+cleaning floor,cleaning,Household Activities,Root,1
+tying knot (not on a tie),cleaning,Household Activities,Root,1
+washing dishes,cleaning,Household Activities,Root,0
+baking cookies,cooking,Household Activities,Root,1
+barbequing,cooking,Household Activities,Root,1
+cooking chicken,cooking,Household Activities,Root,1
+cutting watermelon,cooking,Household Activities,Root,1
+making pizza,cooking,Household Activities,Root,1
+picking fruit,cooking,Household Activities,Root,0
+scrambling eggs,cooking,Household Activities,Root,0
+chopping wood,garden + plants,Household Activities,Root,1
+mowing lawn,garden + plants,Household Activities,Root,1
+bookbinding,paper,Household Activities,Root,1
+folding napkins,paper,Household Activities,Root,1
+folding paper,paper,Household Activities,Root,1
+opening present,paper,Household Activities,Root,1
+reading book,paper,Household Activities,Root,1
+unboxing,paper,Household Activities,Root,1
+wrapping present,paper,Household Activities,Root,0
+sharpening pencil,using tools,Household Activities,Root,1
+using computer,using tools,Household Activities,Root,1
+welding,using tools,Household Activities,Root,0
+high jump,athletics jumping,Participating in Sports/Exercise/or Recreation,Root,1
+long jump,athletics jumping,Participating in Sports/Exercise/or Recreation,Root,1
+pole vault,athletics jumping,Participating in Sports/Exercise/or Recreation,Root,1
+triple jump,athletics jumping,Participating in Sports/Exercise/or Recreation,Root,0
+archery,athletics throwing + launching,Participating in Sports/Exercise/or Recreation,Root,1
+catching or throwing frisbee,athletics throwing + launching,Participating in Sports/Exercise/or Recreation,Root,1
+hammer throw,athletics throwing + launching,Participating in Sports/Exercise/or Recreation,Root,1
+javelin throw,athletics throwing + launching,Participating in Sports/Exercise/or Recreation,Root,1
+shot put,athletics throwing + launching,Participating in Sports/Exercise/or Recreation,Root,1
+throwing axe,athletics throwing + launching,Participating in Sports/Exercise/or Recreation,Root,1
+throwing discus,athletics throwing + launching,Participating in Sports/Exercise/or Recreation,Root,0
+bowling,ball sports,Participating in Sports/Exercise/or Recreation,Root,1
+dribbling basketball,ball sports,Participating in Sports/Exercise/or Recreation,Root,1
+dunking basketball,ball sports,Participating in Sports/Exercise/or Recreation,Root,1
+kicking field goal,ball sports,Participating in Sports/Exercise/or Recreation,Root,1
+passing American football (in game),ball sports,Participating in Sports/Exercise/or Recreation,Root,1
+passing American football (not in game),ball sports,Participating in Sports/Exercise/or Recreation,Root,1
+playing basketball,ball sports,Participating in Sports/Exercise/or Recreation,Root,0
+playing volleyball,ball sports,Participating in Sports/Exercise/or Recreation,Root,0
+golf driving,golf,Participating in Sports/Exercise/or Recreation,Root,1
+golf putting,golf,Participating in Sports/Exercise/or Recreation,Root,1
+bench pressing,gym,Participating in Sports/Exercise/or Recreation,Root,1
+clean and jerk,gym,Participating in Sports/Exercise/or Recreation,Root,1
+deadlifting,gym,Participating in Sports/Exercise/or Recreation,Root,1
+front raises,gym,Participating in Sports/Exercise/or Recreation,Root,1
+pull ups,gym,Participating in Sports/Exercise/or Recreation,Root,1
+situp,gym,Participating in Sports/Exercise/or Recreation,Root,1
+snatch weight lifting,gym,Participating in Sports/Exercise/or Recreation,Root,1
+squat,gym,Participating in Sports/Exercise/or Recreation,Root,0
+yoga,gym,Participating in Sports/Exercise/or Recreation,Root,0
+lunge,gym,Participating in Sports/Exercise/or Recreation,Root,1
+gymnastics tumbling,gymnastics,Participating in Sports/Exercise/or Recreation,Root,1
+somersaulting,gymnastics,Participating in Sports/Exercise/or Recreation,Root,1
+balloon blowing,head + mouth,Participating in Sports/Exercise/or Recreation,Root,1
+beatboxing,head + mouth,Participating in Sports/Exercise/or Recreation,Root,1
+blowing out candles,head + mouth,Participating in Sports/Exercise/or Recreation,Root,1
+shaking head,head + mouth,Participating in Sports/Exercise/or Recreation,Root,1
+singing,head + mouth,Participating in Sports/Exercise/or Recreation,Root,1
+smoking,head + mouth,Participating in Sports/Exercise/or Recreation,Root,1
+smoking hookah,head + mouth,Participating in Sports/Exercise/or Recreation,Root,0
+sticking tongue out,head + mouth,Participating in Sports/Exercise/or Recreation,Root,0
+abseiling,heights,Participating in Sports/Exercise/or Recreation,Root,1
+bungee jumping,heights,Participating in Sports/Exercise/or Recreation,Root,1
+climbing tree,heights,Participating in Sports/Exercise/or Recreation,Root,1
+diving cliff,heights,Participating in Sports/Exercise/or Recreation,Root,1
+paragliding,heights,Participating in Sports/Exercise/or Recreation,Root,1
+rock climbing,heights,Participating in Sports/Exercise/or Recreation,Root,1
+slacklining,heights,Participating in Sports/Exercise/or Recreation,Root,0
+trapezing,heights,Participating in Sports/Exercise/or Recreation,Root,1
+contact juggling,juggling,Participating in Sports/Exercise/or Recreation,Root,1
+hula hooping,juggling,Participating in Sports/Exercise/or Recreation,Root,1
+juggling balls,juggling,Participating in Sports/Exercise/or Recreation,Root,1
+spinning poi,juggling,Participating in Sports/Exercise/or Recreation,Root,0
+catching or throwing baseball,racquet + bat sports,Participating in Sports/Exercise/or Recreation,Root,1
+catching or throwing softball,racquet + bat sports,Participating in Sports/Exercise/or Recreation,Root,1
+hitting baseball,racquet + bat sports,Participating in Sports/Exercise/or Recreation,Root,1
+hurling (sport),racquet + bat sports,Participating in Sports/Exercise/or Recreation,Root,1
+playing badminton,racquet + bat sports,Participating in Sports/Exercise/or Recreation,Root,1
+playing cricket,racquet + bat sports,Participating in Sports/Exercise/or Recreation,Root,1
+playing squash or racquetball,racquet + bat sports,Participating in Sports/Exercise/or Recreation,Root,0
+playing tennis,racquet + bat sports,Participating in Sports/Exercise/or Recreation,Root,0
+biking through snow,snow + ice,Participating in Sports/Exercise/or Recreation,Root,1
+ice climbing,snow + ice,Participating in Sports/Exercise/or Recreation,Root,1
+ice skating,snow + ice,Participating in Sports/Exercise/or Recreation,Root,1
+making snowman,snow + ice,Participating in Sports/Exercise/or Recreation,Root,1
+playing ice hockey,snow + ice,Participating in Sports/Exercise/or Recreation,Root,1
+shoveling snow,snow + ice,Participating in Sports/Exercise/or Recreation,Root,1
+ski jumping,snow + ice,Participating in Sports/Exercise/or Recreation,Root,0
+skiing (not slalom or crosscountry),snow + ice,Participating in Sports/Exercise/or Recreation,Root,1
+sled dog racing,snow + ice,Participating in Sports/Exercise/or Recreation,Root,1
+snowboarding,snow + ice,Participating in Sports/Exercise/or Recreation,Root,1
+snowkiting,snow + ice,Participating in Sports/Exercise/or Recreation,Root,1
+tobogganing,snow + ice,Participating in Sports/Exercise/or Recreation,Root,0
+swimming backstroke,swimming,Participating in Sports/Exercise/or Recreation,Root,1
+swimming breast stroke,swimming,Participating in Sports/Exercise/or Recreation,Root,1
+canoeing or kayaking,water sports,Participating in Sports/Exercise/or Recreation,Root,1
+jetskiing,water sports,Participating in Sports/Exercise/or Recreation,Root,1
+kitesurfing,water sports,Participating in Sports/Exercise/or Recreation,Root,1
+parasailing,water sports,Participating in Sports/Exercise/or Recreation,Root,1
+sailing,water sports,Participating in Sports/Exercise/or Recreation,Root,1
+surfing water,water sports,Participating in Sports/Exercise/or Recreation,Root,0
+water skiing,water sports,Participating in Sports/Exercise/or Recreation,Root,1
+windsurfing,water sports,Participating in Sports/Exercise/or Recreation,Root,0
+braiding hair,hair,Personal Care,Root,1
+brushing hair,hair,Personal Care,Root,1
+curling hair,hair,Personal Care,Root,1
+shaving head,hair,Personal Care,Root,1
+trimming or shaving beard,hair,Personal Care,Root,0
+air drumming,hands,Personal Care,Root,1
+finger snapping,hands,Personal Care,Root,1
+doing nails,makeup,Personal Care,Root,1
+dying hair,makeup,Personal Care,Root,1
+filling eyebrows,makeup,Personal Care,Root,1
+waxing chest,makeup,Personal Care,Root,1
+waxing legs,makeup,Personal Care,Root,0
+brushing teeth,personal hygiene,Personal Care,Root,1
+washing feet,personal hygiene,Personal Care,Root,1
+washing hands,personal hygiene,Personal Care,Root,0
+feeding birds,interacting with animals,Relaxing and Leisure,Root,1
+feeding fish,interacting with animals,Relaxing and Leisure,Root,1
+feeding goats,interacting with animals,Relaxing and Leisure,Root,1
+milking cow,interacting with animals,Relaxing and Leisure,Root,1
+petting animal (not cat),interacting with animals,Relaxing and Leisure,Root,1
+riding elephant,interacting with animals,Relaxing and Leisure,Root,1
+riding or walking with horse,interacting with animals,Relaxing and Leisure,Root,0
+shearing sheep,interacting with animals,Relaxing and Leisure,Root,1
+walking the dog,interacting with animals,Relaxing and Leisure,Root,0
+crawling baby,mobility land,Relaxing and Leisure,Root,1
+driving car,mobility land,Relaxing and Leisure,Root,1
+driving tractor,mobility land,Relaxing and Leisure,Root,1
+motorcycling,mobility land,Relaxing and Leisure,Root,1
+pushing car,mobility land,Relaxing and Leisure,Root,1
+pushing cart,mobility land,Relaxing and Leisure,Root,1
+riding unicycle,mobility land,Relaxing and Leisure,Root,0
+roller skating,mobility land,Relaxing and Leisure,Root,1
+skateboarding,mobility land,Relaxing and Leisure,Root,1
+surfing crowd,mobility land,Relaxing and Leisure,Root,0
+crossing river,mobility water,Relaxing and Leisure,Root,1
+jumping into pool,mobility water,Relaxing and Leisure,Root,1
+scuba diving,mobility water,Relaxing and Leisure,Root,1
+snorkeling,mobility water,Relaxing and Leisure,Root,0
+flying kite,playing games,Relaxing and Leisure,Root,1
+playing chess,playing games,Relaxing and Leisure,Root,1
+playing paintball,playing games,Relaxing and Leisure,Root,1
+playing poker,playing games,Relaxing and Leisure,Root,1
+shuffling cards,playing games,Relaxing and Leisure,Root,0
+crying,communication,Social Activities,Root,1
+giving or receiving award,communication,Social Activities,Root,1
+laughing,communication,Social Activities,Root,1
+massaging back,communication,Social Activities,Root,1
+presenting weather forecast,communication,Social Activities,Root,0
+eating burger,eating + drinking,Social Activities,Root,1
+eating ice cream,eating + drinking,Social Activities,Root,1
+eating spaghetti,eating + drinking,Social Activities,Root,0
