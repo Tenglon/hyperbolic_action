@@ -1,10 +1,11 @@
-code for the paper **Searching Actions on the Hyperbole**.
+code for **Searching Actions on the Hyperbole**.
 
 The current code includes all the essentials to re-implement our paper,
 The demo code is comming soon.
 
 # Requirements
 pytorch == 1.4.0
+
 geoopt == 0.2.0
 
 
