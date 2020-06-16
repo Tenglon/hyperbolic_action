@@ -1,15 +1,13 @@
-code for **Searching Actions on the Hyperbole**.
+code for **Searching Actions on the Hyperbole**. <br>
 
-The current code includes all the essentials to re-implement our paper,
-The demo code is comming soon.
+The current code includes all the essentials to re-implement our paper, <br>
+The demo code is comming soon. <br>
 
 # Requirements
-pytorch == 1.4.0
+pytorch == 1.4.0 <br>
+geoopt == 0.2.0 <br>
 
-geoopt == 0.2.0
-
-
-If you fail to use this code, please email me (uestc.longteng@gmail.com)
+If you fail to use this code, please email me (uestc.longteng@gmail.com) <br>
 
 # Data Hierarchy and Seen/Unseen Split.
 
