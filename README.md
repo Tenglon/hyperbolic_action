@@ -29,12 +29,12 @@ cone_moments_300.pth <br>
 
 Teng Long, Pascal Mettes, Heng Tao Shen, Cees G. M. Snoek
 
-@InProceedings{Long_2020_CVPR,
-author = {Long, Teng and Mettes, Pascal and Shen, Heng Tao and Snoek, Cees G. M.},
-title = {Searching for Actions on the Hyperbole},
-booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2020}
+@InProceedings{Long_2020_CVPR, <br>
+author = {Long, Teng and Mettes, Pascal and Shen, Heng Tao and Snoek, Cees G. M.}, <br>
+title = {Searching for Actions on the Hyperbole}, <br>
+booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, <br>
+month = {June}, <br>
+year = {2020} <br>
 }
 
 
