@@ -1,7 +1,7 @@
 code for **Searching Actions on the Hyperbole**. <br>
 
 The current code includes all the essentials to re-implement our paper, <br>
-The demo code is comming soon. <br>
+The demo code is a raw version, please leave comments if there is any difficuty to use it. <br>
 
 # Requirements
 pytorch == 1.4.0 <br>
