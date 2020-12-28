@@ -42,7 +42,7 @@ def get_dataloader(Xtr, Xval, ytr, yval, emb, batch_size):
     
     return train_loader, val_loader
 
-def split_act_data(feat, label, fns, anno_fn):
+def split_act_data(feat, label, fns, anno_fn): # This only for ActivityNet.
 
     with open(anno_fn) as json_file:
         data = json.load(json_file)
@@ -52,13 +52,13 @@ def split_act_data(feat, label, fns, anno_fn):
     training_inx, validation_inx = [], []
 
     for feat_fn in fns:
-        # 找到文件名及对应clip_id
+        # Using file name to get the corresponding clip_id, 找到文件名及对应clip_id
         key = feat_fn.split('.')[0].split('_')[-1]
         key = '_'.join(feat_fn.split('.')[0].split('_')[2:])
         clip_inx = feat_fn.split('.')[0].split('_')[0]
         clip_inx = int(clip_inx)
 
-        # 取出标注
+        # Get the video annotation, i.e. the action label.
         video_anno = anno_tr[key]
         if video_anno['subset'] == 'validation':
             training_inx.append(False), validation_inx.append(True)
@@ -74,12 +74,12 @@ def split_act_data(feat, label, fns, anno_fn):
     return Xtr, Xval, ytr, yval
 
 def get_activitynet_dataset(feat_path = './data.pickle', anno_fn = './activity_net.v1-3.json'):
-    # 获得X,y
+    # Generate X, the feature and y, the label.
     with open(feat_path,'rb') as f:
         data1 = pickle.load(f)
         
     label_set = list(set(data1['label']))
-    label_set.sort() # 有Sort很重要
+    label_set.sort() # make sure that the label set is sorted for one-hot encoding.
 
     label = [label_set.index(item) for item in data1['label']]
     label = torch.tensor(label)
