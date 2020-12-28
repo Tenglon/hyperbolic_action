@@ -464,7 +464,7 @@ class CVPR19Net2(nn.Module):
             logits_val_list.append(logits_batch)
             yval_list.append(ybatch)
         logits_val = torch.cat(logits_val_list) # n_val x n_cls
-        # 关键步骤
+
         logits_val = logits_val[:,unseen_idset]
         
         probs_val = F.softmax(logits_val,dim=1) # n_val x n_unseencls
@@ -472,7 +472,7 @@ class CVPR19Net2(nn.Module):
         topk_result_inx = rank[-50:,:] # k x n_unseencls (top k for each class)
 
         yval = torch.cat(yval_list) # ground truth in search candidates's order.
-        ypred_topk = yval[topk_result_inx] #  k x n_unseencls # 每个name最近的k个样本的类别
+        ypred_topk = yval[topk_result_inx] #  k x n_unseencls # Get top-K predictions for each sample, using for retrieval, we use k = 50 in this context.
         ypred_topk = ypred_topk.t()
         
         GT = torch.tensor(unseen_idset).cuda()
@@ -680,7 +680,7 @@ class CVPR19Net(nn.Module):
         topk_result_inx = rank[-50:,:] # k x n_unseencls (top k for each class)
 
         yval = torch.cat(yval_list) # ground truth in search candidates's order.
-        ypred_topk = yval[topk_result_inx] #  k x n_unseencls # 每个name最近的k个样本的类别
+        ypred_topk = yval[topk_result_inx] #  k x n_unseencls # Get top-K predictions for each sample, using for retrieval, we use k = 50 in this context.
         ypred_topk = ypred_topk.t()
         
 #         top1_result_inx = rank[-1,:] # n_unseencls x 1 (k = 1)
