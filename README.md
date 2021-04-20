@@ -15,6 +15,10 @@ activity_net_depth.csv	<br>
 kinetics_depth.csv	<br>
 moments_depth.csv <br>
 
+# Data files
+
+I have uploaded the extracted video features (~8GB) to Microsoft Onedrive, please contact me for data sharing.
+
 # Pretrained 300-D action embedding:
 
 cone_activity_net300.pth	<br>
